@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="stagecurtains.png">
+	<!-- Created with Adobe Animate version 21.0.9.42677 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Bitmap 1 instance 1" x="0" y="0" width="2560" height="1400"/>
+	<SubTexture name="Bitmap 2 instance 1" x="0" y="0" width="2560" height="1400"/>
+</TextureAtlas>
